@@ -1,0 +1,6 @@
+This lists dependencies:
+
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
